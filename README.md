@@ -1,2 +1,2 @@
-# test-rename-github-after-npm-publihs
-test
+# test-rename-github-after-npm-publish
+test, new orig checkin
