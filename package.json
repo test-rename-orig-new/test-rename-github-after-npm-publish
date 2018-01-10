@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/test-rename-orig/test-rename-github-after-npm-publish.git"
+    "url": "git+https://github.com/test-rename-orig-new/test-rename-github-after-npm-publish.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/test-rename-orig/test-rename-github-after-npm-publish/issues"
+    "url": "https://github.com/test-rename-orig-new/test-rename-github-after-npm-publish/issues"
   },
-  "homepage": "https://github.com/test-rename-orig/test-rename-github-after-npm-publish#readme"
+  "homepage": "https://github.com/test-rename-orig-new/test-rename-github-after-npm-publish#readme"
 }
