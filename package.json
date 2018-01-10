@@ -1,0 +1,19 @@
+{
+  "name": "test-rename-github-after-npm-publish",
+  "version": "2.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test-rename-orig/test-rename-github-after-npm-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/test-rename-orig/test-rename-github-after-npm-publish/issues"
+  },
+  "homepage": "https://github.com/test-rename-orig/test-rename-github-after-npm-publish#readme"
+}
