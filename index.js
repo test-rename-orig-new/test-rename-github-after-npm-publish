@@ -1,1 +1,1 @@
-console.log('This is version the version with orig name test-rename-orig');
+console.log('This is version the version with orig name test-rename-orig-new');
